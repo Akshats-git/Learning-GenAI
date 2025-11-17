@@ -1,0 +1,201 @@
+GadgetID,Name,Category,PriceUSD,Rating
+GAD1000,Gadget 0,Portable,378.42,4.0
+GAD1001,Gadget 1,Gaming,43.24,1.7
+GAD1002,Gadget 2,Home Device,263.71,2.7
+GAD1003,Gadget 3,AI Assistant,109.9,2.9
+GAD1004,Gadget 4,Home Device,75.31,4.0
+GAD1005,Gadget 5,Portable,113.33,2.4
+GAD1006,Gadget 6,Home Device,397.88,2.3
+GAD1007,Gadget 7,Portable,242.35,1.8
+GAD1008,Gadget 8,Gaming,290.49,4.6
+GAD1009,Gadget 9,Portable,294.1,3.6
+GAD1010,Gadget 10,Wearable,335.4,3.1
+GAD1011,Gadget 11,Home Device,247.55,3.6
+GAD1012,Gadget 12,Gaming,209.87,4.7
+GAD1013,Gadget 13,AI Assistant,22.43,1.1
+GAD1014,Gadget 14,Portable,115.21,3.5
+GAD1015,Gadget 15,Gaming,431.51,1.0
+GAD1016,Gadget 16,Wearable,113.73,3.6
+GAD1017,Gadget 17,Home Device,114.07,1.8
+GAD1018,Gadget 18,Portable,307.65,2.8
+GAD1019,Gadget 19,Portable,353.48,2.4
+GAD1020,Gadget 20,Home Device,408.93,4.0
+GAD1021,Gadget 21,AI Assistant,329.87,4.4
+GAD1022,Gadget 22,Home Device,284.68,3.5
+GAD1023,Gadget 23,Home Device,224.4,1.1
+GAD1024,Gadget 24,Home Device,298.59,3.5
+GAD1025,Gadget 25,Portable,452.05,4.4
+GAD1026,Gadget 26,Gaming,279.24,1.5
+GAD1027,Gadget 27,AI Assistant,113.27,1.6
+GAD1028,Gadget 28,Home Device,34.84,2.6
+GAD1029,Gadget 29,Gaming,177.56,2.3
+GAD1030,Gadget 30,Wearable,99.37,1.4
+GAD1031,Gadget 31,Home Device,211.71,4.5
+GAD1032,Gadget 32,Gaming,177.78,1.1
+GAD1033,Gadget 33,Home Device,291.44,2.8
+GAD1034,Gadget 34,Home Device,227.64,1.5
+GAD1035,Gadget 35,Gaming,478.5,2.7
+GAD1036,Gadget 36,Wearable,83.35,3.8
+GAD1037,Gadget 37,Wearable,349.74,3.7
+GAD1038,Gadget 38,Gaming,92.19,4.8
+GAD1039,Gadget 39,Wearable,59.76,4.6
+GAD1040,Gadget 40,Home Device,113.43,4.6
+GAD1041,Gadget 41,Portable,428.64,5.0
+GAD1042,Gadget 42,AI Assistant,306.59,3.7
+GAD1043,Gadget 43,Wearable,107.37,1.3
+GAD1044,Gadget 44,Wearable,257.39,3.5
+GAD1045,Gadget 45,Home Device,427.22,3.3
+GAD1046,Gadget 46,Portable,29.09,4.7
+GAD1047,Gadget 47,Wearable,54.09,1.3
+GAD1048,Gadget 48,Gaming,269.81,2.4
+GAD1049,Gadget 49,AI Assistant,489.5,1.8
+GAD1050,Gadget 50,Portable,68.6,3.4
+GAD1051,Gadget 51,AI Assistant,303.63,2.3
+GAD1052,Gadget 52,Home Device,379.82,2.8
+GAD1053,Gadget 53,Wearable,349.06,1.2
+GAD1054,Gadget 54,Portable,123.99,4.6
+GAD1055,Gadget 55,Wearable,245.54,3.7
+GAD1056,Gadget 56,Portable,167.22,2.3
+GAD1057,Gadget 57,Gaming,78.57,2.4
+GAD1058,Gadget 58,AI Assistant,355.74,1.3
+GAD1059,Gadget 59,Wearable,139.01,3.9
+GAD1060,Gadget 60,Gaming,241.71,1.3
+GAD1061,Gadget 61,Gaming,424.99,4.4
+GAD1062,Gadget 62,Wearable,379.08,3.1
+GAD1063,Gadget 63,Gaming,447.58,2.6
+GAD1064,Gadget 64,Portable,51.8,4.9
+GAD1065,Gadget 65,AI Assistant,145.34,4.0
+GAD1066,Gadget 66,Gaming,22.42,4.6
+GAD1067,Gadget 67,Wearable,196.28,2.5
+GAD1068,Gadget 68,Portable,356.7,1.5
+GAD1069,Gadget 69,Portable,61.68,1.6
+GAD1070,Gadget 70,Gaming,149.37,2.0
+GAD1071,Gadget 71,Portable,39.58,4.5
+GAD1072,Gadget 72,AI Assistant,368.87,1.9
+GAD1073,Gadget 73,Portable,226.92,2.3
+GAD1074,Gadget 74,Portable,261.01,4.6
+GAD1075,Gadget 75,Portable,44.43,3.8
+GAD1076,Gadget 76,Wearable,364.44,3.9
+GAD1077,Gadget 77,Gaming,31.83,2.2
+GAD1078,Gadget 78,Home Device,397.73,2.1
+GAD1079,Gadget 79,Home Device,240.89,3.5
+GAD1080,Gadget 80,Portable,118.32,4.7
+GAD1081,Gadget 81,AI Assistant,312.84,2.4
+GAD1082,Gadget 82,AI Assistant,243.19,3.9
+GAD1083,Gadget 83,Portable,176.88,2.9
+GAD1084,Gadget 84,Gaming,42.86,4.4
+GAD1085,Gadget 85,Gaming,122.41,3.2
+GAD1086,Gadget 86,Wearable,305.51,4.6
+GAD1087,Gadget 87,AI Assistant,145.13,4.0
+GAD1088,Gadget 88,Gaming,22.72,1.0
+GAD1089,Gadget 89,AI Assistant,355.44,1.8
+GAD1090,Gadget 90,AI Assistant,357.57,2.6
+GAD1091,Gadget 91,Wearable,136.01,2.2
+GAD1092,Gadget 92,Home Device,29.52,1.9
+GAD1093,Gadget 93,Wearable,435.13,2.8
+GAD1094,Gadget 94,Gaming,168.86,4.9
+GAD1095,Gadget 95,AI Assistant,456.91,5.0
+GAD1096,Gadget 96,Portable,63.02,1.1
+GAD1097,Gadget 97,Portable,469.37,1.9
+GAD1098,Gadget 98,Wearable,167.99,2.8
+GAD1099,Gadget 99,Gaming,76.45,2.6
+GAD1100,Gadget 100,Gaming,376.97,1.6
+GAD1101,Gadget 101,Portable,390.97,1.9
+GAD1102,Gadget 102,Home Device,455.72,3.1
+GAD1103,Gadget 103,Portable,61.77,3.0
+GAD1104,Gadget 104,Gaming,268.39,2.3
+GAD1105,Gadget 105,Gaming,259.8,2.1
+GAD1106,Gadget 106,Wearable,184.06,4.7
+GAD1107,Gadget 107,AI Assistant,443.34,3.1
+GAD1108,Gadget 108,Portable,122.83,1.5
+GAD1109,Gadget 109,Wearable,356.53,2.1
+GAD1110,Gadget 110,Gaming,280.78,3.4
+GAD1111,Gadget 111,Wearable,70.14,3.8
+GAD1112,Gadget 112,Wearable,170.76,3.4
+GAD1113,Gadget 113,Portable,325.53,1.8
+GAD1114,Gadget 114,Home Device,55.36,4.8
+GAD1115,Gadget 115,AI Assistant,246.29,4.6
+GAD1116,Gadget 116,Portable,447.07,3.8
+GAD1117,Gadget 117,AI Assistant,41.52,1.6
+GAD1118,Gadget 118,AI Assistant,262.05,1.6
+GAD1119,Gadget 119,Wearable,204.44,2.7
+GAD1120,Gadget 120,AI Assistant,442.96,4.3
+GAD1121,Gadget 121,Portable,346.58,1.8
+GAD1122,Gadget 122,AI Assistant,368.57,4.0
+GAD1123,Gadget 123,AI Assistant,49.74,3.0
+GAD1124,Gadget 124,Home Device,438.01,3.0
+GAD1125,Gadget 125,Gaming,381.44,1.7
+GAD1126,Gadget 126,AI Assistant,399.04,3.8
+GAD1127,Gadget 127,Home Device,314.22,2.1
+GAD1128,Gadget 128,Home Device,469.96,4.1
+GAD1129,Gadget 129,AI Assistant,236.51,1.7
+GAD1130,Gadget 130,Wearable,279.58,2.3
+GAD1131,Gadget 131,AI Assistant,23.84,4.5
+GAD1132,Gadget 132,Home Device,289.63,3.6
+GAD1133,Gadget 133,Home Device,217.67,1.3
+GAD1134,Gadget 134,Wearable,435.25,1.5
+GAD1135,Gadget 135,Home Device,56.18,3.0
+GAD1136,Gadget 136,Wearable,479.25,4.5
+GAD1137,Gadget 137,Wearable,472.21,2.4
+GAD1138,Gadget 138,Gaming,80.83,3.3
+GAD1139,Gadget 139,Portable,402.05,1.2
+GAD1140,Gadget 140,Gaming,97.87,4.9
+GAD1141,Gadget 141,Portable,368.77,3.4
+GAD1142,Gadget 142,Home Device,459.54,3.0
+GAD1143,Gadget 143,Gaming,48.15,2.1
+GAD1144,Gadget 144,AI Assistant,182.03,3.1
+GAD1145,Gadget 145,Gaming,405.5,4.9
+GAD1146,Gadget 146,Wearable,77.94,4.7
+GAD1147,Gadget 147,Gaming,80.34,2.2
+GAD1148,Gadget 148,Home Device,418.6,4.0
+GAD1149,Gadget 149,Wearable,140.02,1.8
+GAD1150,Gadget 150,Home Device,436.9,1.2
+GAD1151,Gadget 151,AI Assistant,405.91,4.4
+GAD1152,Gadget 152,AI Assistant,30.19,5.0
+GAD1153,Gadget 153,AI Assistant,81.54,3.5
+GAD1154,Gadget 154,AI Assistant,133.56,1.8
+GAD1155,Gadget 155,AI Assistant,131.01,3.1
+GAD1156,Gadget 156,AI Assistant,72.87,2.0
+GAD1157,Gadget 157,Portable,137.16,3.0
+GAD1158,Gadget 158,Portable,392.06,3.9
+GAD1159,Gadget 159,Gaming,471.57,2.0
+GAD1160,Gadget 160,Gaming,328.92,1.9
+GAD1161,Gadget 161,Gaming,457.53,4.7
+GAD1162,Gadget 162,Wearable,251.23,3.3
+GAD1163,Gadget 163,Gaming,163.81,4.6
+GAD1164,Gadget 164,Gaming,302.45,2.7
+GAD1165,Gadget 165,Portable,174.52,3.5
+GAD1166,Gadget 166,Portable,271.76,4.2
+GAD1167,Gadget 167,Wearable,227.9,4.8
+GAD1168,Gadget 168,Gaming,202.96,2.0
+GAD1169,Gadget 169,Gaming,159.69,1.0
+GAD1170,Gadget 170,Portable,456.72,3.7
+GAD1171,Gadget 171,Portable,163.53,4.2
+GAD1172,Gadget 172,Home Device,74.04,3.9
+GAD1173,Gadget 173,Wearable,314.27,3.8
+GAD1174,Gadget 174,AI Assistant,476.33,1.2
+GAD1175,Gadget 175,Portable,339.03,2.2
+GAD1176,Gadget 176,Wearable,338.35,4.3
+GAD1177,Gadget 177,Gaming,172.65,2.3
+GAD1178,Gadget 178,Home Device,417.7,1.4
+GAD1179,Gadget 179,Gaming,63.13,1.6
+GAD1180,Gadget 180,Gaming,454.09,4.7
+GAD1181,Gadget 181,AI Assistant,475.54,2.4
+GAD1182,Gadget 182,Home Device,302.19,1.2
+GAD1183,Gadget 183,Wearable,344.82,4.4
+GAD1184,Gadget 184,Wearable,486.3,3.2
+GAD1185,Gadget 185,Gaming,371.69,3.2
+GAD1186,Gadget 186,Wearable,482.47,1.7
+GAD1187,Gadget 187,Wearable,209.8,4.6
+GAD1188,Gadget 188,Home Device,428.33,1.3
+GAD1189,Gadget 189,Home Device,426.53,3.3
+GAD1190,Gadget 190,Portable,429.14,1.0
+GAD1191,Gadget 191,Wearable,254.64,3.5
+GAD1192,Gadget 192,Home Device,309.78,1.1
+GAD1193,Gadget 193,Wearable,353.52,1.8
+GAD1194,Gadget 194,Portable,33.81,4.8
+GAD1195,Gadget 195,Home Device,139.77,2.4
+GAD1196,Gadget 196,AI Assistant,281.43,2.3
+GAD1197,Gadget 197,AI Assistant,350.6,2.3
+GAD1198,Gadget 198,Wearable,311.02,2.4
+GAD1199,Gadget 199,Home Device,447.22,5.0
