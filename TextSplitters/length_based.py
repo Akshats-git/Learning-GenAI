@@ -1,4 +1,4 @@
-from langchain.text_splitter import CharacterTextSplitter
+from langchain_text_splitters import CharacterTextSplitter
 
 text = """Poetry is one of the oldest and most expressive forms of human communication. It uses rhythm, imagery, and carefully chosen words to convey emotions, experiences, and ideas in a way that ordinary language often cannot. Unlike prose, poetry is not bound by strict rules of sentence structure or narrative flow. Instead, it allows the writer to experiment with form, sound, and meaning, creating a unique space where language becomes more than a tool for information—it becomes art.
 
