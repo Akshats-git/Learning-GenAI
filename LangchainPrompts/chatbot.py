@@ -4,7 +4,7 @@ from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 
 load_dotenv()
 
-model = ChatGoogleGenerativeAI(model='gemini-1.5-pro')
+model = ChatGoogleGenerativeAI(model='models/gemini-pro-latest')
 
 chat_history=[
     SystemMessage(content="You are a helpful AI Assistant.")

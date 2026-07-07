@@ -5,7 +5,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAIEmbeddings
 from langchain_core.documents import Document
-from langchain.retrievers.multi_query import MultiQueryRetriever
+from langchain_classic.retrievers.multi_query import MultiQueryRetriever
 
 documents = (
     Document(page_content="LangChain is a framework designed to help developers build applications powered by large language models by chaining together components like prompts, memory, and tools."),

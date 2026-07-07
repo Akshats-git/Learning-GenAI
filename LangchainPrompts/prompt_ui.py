@@ -13,7 +13,7 @@ length_input = st.selectbox("Select a length", ["Short", "Medium", "Long"])
 
 template = load_prompt('template.json')
 
-model = ChatGoogleGenerativeAI(model='gemini-1.5-pro')
+model = ChatGoogleGenerativeAI(model='models/gemini-pro-latest')
 
 if st.button("Summarize"):
     chain = template | model

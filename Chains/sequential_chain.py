@@ -15,7 +15,7 @@ prompt2 = PromptTemplate(
     input_variables=["text"]
 )
 
-model = ChatGoogleGenerativeAI(model='gemini-1.5-pro')
+model = ChatGoogleGenerativeAI(model='models/gemini-pro-latest')
 parser = StrOutputParser()
 chain = prompt1 | model | parser | prompt2 | model | parser
 result = chain.invoke({'topic':'Cricket'})

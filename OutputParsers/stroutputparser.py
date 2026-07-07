@@ -4,7 +4,7 @@ from langchain_core.prompts import PromptTemplate
 
 load_dotenv()
 
-model = ChatGoogleGenerativeAI(model='gemini-1.5-pro')
+model = ChatGoogleGenerativeAI(model='models/gemini-pro-latest')
 
 template1=PromptTemplate(
     template="Write a detailed report on {topic}.",

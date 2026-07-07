@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-model = ChatOpenAI()
+model = ChatOpenAI(model='gpt-4o-mini')
 
 prompt = PromptTemplate(
     template="Write a summary for the following facts: {facts}",

@@ -10,7 +10,7 @@ prompt = PromptTemplate(
     input_variables=["topic"]
 )
 
-model = ChatGoogleGenerativeAI(model='gemini-1.5-pro')
+model = ChatGoogleGenerativeAI(model='models/gemini-pro-latest')
 parser = StrOutputParser()
 chain = prompt | model | parser
 result = chain.invoke({'topic':'Wonders of the World'})

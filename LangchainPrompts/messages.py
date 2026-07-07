@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-model = ChatGoogleGenerativeAI(model='gemini-1.5-pro')
+model = ChatGoogleGenerativeAI(model='models/gemini-pro-latest')
 
 messages=[
     SystemMessage(content="You are a helpful assistant"),

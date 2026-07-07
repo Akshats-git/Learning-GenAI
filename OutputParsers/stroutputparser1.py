@@ -5,7 +5,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 load_dotenv()
 
-model = ChatGoogleGenerativeAI(model='gemini-1.5-pro')
+model = ChatGoogleGenerativeAI(model='models/gemini-pro-latest')
 
 template1=PromptTemplate(
     template="Write a detailed report on {topic}.",

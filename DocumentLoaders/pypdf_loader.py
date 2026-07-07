@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-model = ChatOpenAI()
+model = ChatOpenAI(model='gpt-4o-mini')
 
 loader = PyPDFLoader('sports.pdf')
 

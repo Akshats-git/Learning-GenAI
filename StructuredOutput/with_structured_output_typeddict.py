@@ -5,7 +5,7 @@ from typing import TypedDict, Annotated, Optional, Literal
 
 load_dotenv()
 
-model = ChatGoogleGenerativeAI(model='gemini-1.5-pro')
+model = ChatGoogleGenerativeAI(model='models/gemini-pro-latest')
 
 # schema
 class Review(TypedDict):

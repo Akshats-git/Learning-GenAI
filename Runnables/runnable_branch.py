@@ -2,7 +2,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from dotenv import load_dotenv
-from langchain.schema.runnable import RunnableSequence, RunnableParallel, RunnablePassthrough ,RunnableLambda, RunnableBranch
+from langchain_core.runnables import RunnableSequence, RunnableParallel, RunnablePassthrough ,RunnableLambda, RunnableBranch
 
 load_dotenv()
 
@@ -19,14 +19,14 @@ prompt2 = PromptTemplate(
     input_variables=['text']
 )
 
-model = ChatOpenAI()
+model = ChatOpenAI(model='gpt-4o-mini')
 parser = StrOutputParser()
 
 report_chain = RunnableSequence(prompt1,model,parser)
 summary_chain = RunnableSequence(prompt2,model,parser)
 branch_chain = RunnableBranch(
     (lambda x:len(x.split())>100,summary_chain),
-    RunnablePassthrough
+    RunnablePassthrough()
 )
 
 chain = RunnableSequence(report_chain, branch_chain)
